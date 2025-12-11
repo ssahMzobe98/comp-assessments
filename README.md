@@ -1,6 +1,8 @@
 # Learner Progress Dashboard - Coding Challenge
 
-## Getting Started
+## Getting Started 
+
+## Author : MSIZI SAMUEL MZOBE
 
 1. Run `composer install`
 2. Download `xampp` from `https://www.apachefriends.org/download.html`'
